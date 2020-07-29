@@ -1,10 +1,10 @@
 # Hi, I'm Eben 👋 👩🏾‍💻
 
-<img src="res/header.gif" alt="banner that says Ebenezer Gadri-Akrong - undergraduate computer engineering student">
+<img src="https://github.com/aibenStunner/aibenStunner/blob/master/res/header.gif" alt="banner that says Ebenezer Gadri-Akrong - undergraduate computer engineering student">
 My name is Ebenezer Kweku Gadri-Akrong. I'm a student pursuing BSc. Computer Engineering in Kwame Nkrumah University of Science and Technology, Kumasi, Ghana. I am a passionate developer and a diligent student with a strong interest in everything Computer Science and technology related. I have a soft spot for theoretical and applied Machine Learning, optimization of algorithms, Computer Vision and Robotics. I love computers❤️💻😊....
 
 
-## Find me around the web 🌎: <a href="https://aibenstunner.github.io/"><img align="left" width="150" height="150" src="res/git.gif"></a>
+## Find me around the web 🌎: <a href="https://aibenstunner.github.io/"><img align="left" width="150" height="150" src="https://github.com/aibenStunner/aibenStunner/blob/master/res/git.gif"></a>
 - Send me a mail - <a href="ebenezergadri99@gmail.com">ebenezergadri99@gmail.com</a> ✍🏾..📫
 - Let's connect on <a href="https://www.linkedin.com/in/thegadri/"> LinkedIn</a> ⚡
 - I'm on <a href="https://www.hackerrank.com/aiben_">HackerRank</a> as well👩🏾‍💻
