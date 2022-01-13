@@ -1,4 +1,4 @@
-# Hi, I'm Eben 👋 👩🏾‍💻
+# Hi, I'm Eben <img src="./res/wave.gif" width="30px">
 
 <img src="https://github.com/aibenStunner/aibenStunner/blob/master/res/header.gif" alt="banner that says Ebenezer Gadri-Akrong - undergraduate computer engineering student">
 
