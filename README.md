@@ -7,10 +7,10 @@ I am an Undergraduate Computer Engineer with a strong passion for problem solvin
 I am a quick learner with a consistent history of mastering tools on the job in my previous roles. I am passionate about designing and building scalable innovative solutions to real world problems. I am well-organized and pro-active with phenomenal time management skills.
 
 
-## Find me around the web 🌎: <a href="https://aibenstunner.github.io/"><img align="left" width="150" height="150" src="https://github.com/aibenStunner/aibenStunner/blob/master/res/git.gif"></a>
-- Send me a mail - <a href="ebenezergadri99@gmail.com">ebenezergadri99@gmail.com</a> ✍🏾..📫
-- Let's connect on <a href="https://www.linkedin.com/in/thegadri/"> LinkedIn</a> ⚡
-- I'm on <a href="https://www.hackerrank.com/aiben_">HackerRank</a> as well👩🏾‍💻
+## &nbsp; Find me around the web 🌎: <a href="https://aibenstunner.github.io/"><img align="left" width="150" height="150" src="https://github.com/aibenStunner/aibenStunner/blob/master/res/git.gif"></a>
+&nbsp; Send me a mail - <a href="ebenezergadri99@gmail.com">ebenezergadri99@gmail.com</a> ✍🏾...📫\
+&nbsp; Let's connect on <a href="https://www.linkedin.com/in/thegadri/"> LinkedIn</a> ⚡\
+&nbsp; I'm on <a href="https://www.hackerrank.com/aiben_">HackerRank</a> as well👩🏾‍💻
 
 <!--
 **aibenStunner/aibenStunner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
